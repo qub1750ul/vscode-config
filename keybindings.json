@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "command": "-vscode-neovim.escape",
+    "key": "ctrl+c"
+  },
+  {
+    "key": "ctrl+t",
+    "command": "workbench.action.terminal.new"
+  }
+]

@@ -1,0 +1,33 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "workbench.preferredDarkColorTheme": "Ayu Dark Bordered",
+    "workbench.preferredLightColorTheme": "Ayu Light Bordered",
+    "C_Cpp.enhancedColorization": "Disabled",
+    "vscode-neovim.neovimPath": "/bin/nvim",
+    "workbench.statusBar.visible": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 12,
+    "editor.fontFamily": "'FuraCode Nerd Font'",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.insertSpaces": false,
+    "editor.fontWeight": "bold",
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "files.associations": {
+        "*.make": "makefile"
+    },
+    "npm.packageManager": "pnpm",
+    "vscode-neovim.useCtrlKeysForInsertMode": false,
+    "vscode-neovim.useCtrlKeysForNormalMode": false,
+    "terminal.external.linuxExec": "termite",
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.scrollback": 0,
+    "explorer.confirmDragAndDrop": false,
+    "todo-tree.tree.showScanModeButton": false
+}
