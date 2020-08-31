@@ -29,5 +29,6 @@
     "terminal.integrated.scrollback": 0,
     "explorer.confirmDragAndDrop": false,
     "todo-tree.tree.showScanModeButton": false,
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Ayu Dark Bordered"
 }
