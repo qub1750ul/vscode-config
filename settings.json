@@ -31,6 +31,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Ayu Dark Bordered",
     "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
-    "vscode-neovim.useWSL": true,
-    "shellcheck.useWSL": true
+    "shellcheck.useWSL": true,
+    "vscode-neovim.neovimPath": "/bin/nvim"
 }
