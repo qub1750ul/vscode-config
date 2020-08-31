@@ -9,13 +9,13 @@
 	"medo64.render-crlf",
 	"mhutchie.git-graph",
 	"ms-azuretools.vscode-docker",
+	"ms-vscode-remote.remote-wsl",
 	"ms-vscode.atom-keybindings",
-	"ms-vscode.cpptools",
 	"PKief.material-icon-theme",
 	"Prisma.vscode-graphql",
-	"Shan.code-settings-sync",
-	"softwaredotcom.swdc-vscode",
+	"stkb.rewrap",
 	"teabyii.ayu",
 	"timonwong.shellcheck",
+	"webfreak.debug",
 	"wwm.better-align"
 ]
