@@ -2,7 +2,6 @@
     "atomKeymap.promptV3Features": true,
     "workbench.preferredDarkColorTheme": "Ayu Dark Bordered",
     "workbench.preferredLightColorTheme": "Ayu Light Bordered",
-    "C_Cpp.enhancedColorization": "Disabled",
     "workbench.statusBar.visible": true,
     "workbench.startupEditor": "newUntitledFile",
     "window.zoomLevel": 0,
