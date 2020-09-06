@@ -4,7 +4,7 @@
     "workbench.preferredLightColorTheme": "Ayu Light Bordered",
     "workbench.statusBar.visible": true,
     "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "editor.fontSize": 12,
     "editor.fontFamily": "'FuraCode Nerd Font'",
     "editor.tabSize": 2,
