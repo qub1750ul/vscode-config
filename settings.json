@@ -19,7 +19,7 @@
     "npm.packageManager": "pnpm",
     "vscode-neovim.useCtrlKeysForInsertMode": false,
     "vscode-neovim.useCtrlKeysForNormalMode": false,
-    "terminal.external.linuxExec": "termite",
+    "terminal.external.linuxExec": "",
     "terminal.integrated.confirmOnExit": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.enableBell": true,
@@ -30,6 +30,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Ayu Dark Bordered",
     "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
-    "shellcheck.useWSL": true,
-    "vscode-neovim.neovimPath": "/bin/nvim"
+    "vscode-neovim.neovimPath": "/bin/nvim",
+    "editor.rulers": [ 80 ]
 }
